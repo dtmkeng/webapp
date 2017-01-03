@@ -14,4 +14,5 @@ $result = mysql_query($sql);
 	 echo "</tr>";	
 	}
 	mysql_free_result($result);
+	 
 ?>
